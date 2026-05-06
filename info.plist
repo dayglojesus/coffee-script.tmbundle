@@ -73,6 +73,8 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>description</key>
+	<string>A little language that compiles into JavaScript.</string>
 	<key>name</key>
 	<string>CoffeeScript</string>
 	<key>ordering</key>
